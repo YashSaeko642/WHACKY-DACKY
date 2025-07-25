@@ -1,0 +1,15 @@
+ #bod{
+    text-align: center;
+ }
+ .WHA{
+    display:flex;
+    justify-content: center;
+
+ }
+ .circle{
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+    margin: 40px;
+    border-radius: 100px;
+ }
